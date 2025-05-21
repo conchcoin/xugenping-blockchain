@@ -1,0 +1,7 @@
+pytest==6.2.5
+pytest-cov==2.12.1
+black==21.5b2
+flake8==3.9.2
+mypy==0.910
+sphinx==4.0.2
+sphinx-rtd-theme==0.5.2 
